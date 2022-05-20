@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="자소서 체크✔"
+        android:fontFamily="@font/appfont"
+        android:textSize="15sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <CheckBox
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="자신없고 부정적인 표현은 없다"
+        android:textColor="@color/colorAccent"
+        android:textSize="10sp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="단어와 문장의 중복은 없다"
+        android:textColor="@color/colorAccent"
+        android:textSize="10sp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="지원하려는 곳의 인재상을 고려했다"
+        android:textColor="@color/colorAccent"
+        android:textSize="10sp"/>
+
+    <CheckBox
+        android:id="@+id/checkBox4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="오탈자, 띄어쓰기, 문법, 맞춤법을 확인했다"
+        android:textColor="@color/colorAccent"
+        android:textSize="10sp"/>
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="나의 자소서 결과 : "
+        android:fontFamily="@font/appfont"
+        android:textSize="15sp"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+
+
+        <EditText
+            android:id="@+id/edit_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="자소서를 입력하세요"
+            android:textSize="10sp" />
+
+        <LinearLayout
+            android:id="@+id/add_top_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/appfont"
+                android:text="저장" />
+
+            <Button
+                android:id="@+id/updbutton"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/appfont"
+                android:text="수정" />
+
+            <Button
+                android:id="@+id/delbutton"
+                android:layout_width="130dp"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/appfont"
+                android:text="삭제" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/text_view"
+            android:layout_width="match_parent"
+            android:layout_height="249dp"
+            android:text=""
+            android:textSize="10sp" />
+</LinearLayout>

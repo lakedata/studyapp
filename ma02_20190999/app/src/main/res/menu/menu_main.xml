@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/developerIntro"
+        android:title="개발자 소개" />
+    <item
+        android:id="@+id/main"
+        android:title="메인 화면" />
+    <item
+        android:id="@+id/finish"
+        android:title="종료" />
+</menu>
