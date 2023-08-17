@@ -7,6 +7,3 @@
 ![슬라이드4](https://github.com/lakedata/studyapp/assets/94455716/c8bde869-8e01-4903-b0e4-a823b28b9afb)
 ![슬라이드5](https://github.com/lakedata/studyapp/assets/94455716/e01bbeee-5e40-407c-83c6-32e097ed33ea)
 ![슬라이드6](https://github.com/lakedata/studyapp/assets/94455716/ff36a2ea-0223-48c5-b8f0-fa5a9e79b1ee)
-![슬라이드7](https://github.com/lakedata/studyapp/assets/94455716/8a9b06bc-46db-4827-81d5-39cce2f187d8)
-![슬라이드8](https://github.com/lakedata/studyapp/assets/94455716/d16e51d9-ec79-4483-a574-fe3596fa55fc)
-![슬라이드9](https://github.com/lakedata/studyapp/assets/94455716/18f22e5c-5860-4c7e-8464-6244cc98ee29)
