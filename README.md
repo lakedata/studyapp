@@ -1,5 +1,8 @@
 # studyapp
-대학생/취준생을 위한 체계적이고 계획적인 스터디 어플리케이션 개발
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flate&logo=Android Studio&logoColor=white"/></a>
+</br>
+대학생/취준생을 위한 체계적이고 계획적인 스터디 어플리케이션 개발 
+
 
 ![슬라이드1](https://github.com/lakedata/studyapp/assets/94455716/8c1e9df3-ab2f-42b9-81dc-8ae45a567551)
 ![슬라이드2](https://github.com/lakedata/studyapp/assets/94455716/ebcb9091-03df-4b91-ace5-29c386892920)
